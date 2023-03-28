@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-22T17:49:17 IST" name="Default suite" finished-at="2023-02-22T17:51:36 IST" duration-ms="139045">
+    <groups>
+    </groups>
+    <test started-at="2023-02-22T17:49:17 IST" name="Default test" finished-at="2023-02-22T17:51:36 IST" duration-ms="139045">
+      <class name="automate_WebApplication.ICC_Score">
+        <test-method signature="main()[pri:0, instance:automate_WebApplication.ICC_Score@1139b2f3]" started-at="2023-02-22T17:49:17 IST" name="main" finished-at="2023-02-22T17:51:36 IST" duration-ms="138999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- automate_WebApplication.ICC_Score -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
